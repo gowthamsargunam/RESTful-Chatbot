@@ -52,6 +52,10 @@ You can test the chatbot by running the file data.py
 python data.py
 ```
 
+### RESULT:
+
+![Screenshot1.png](REST_BOT/images/Screenshot1.png)
+![Screenshot1.png](REST_BOT/images/Screenshot2.png)
 
 ### Features:
 
