@@ -1,7 +1,7 @@
 # RESTful - Chatbot
 A simple **RESTful chatbot** service in Python using Llama Model
 
-![image](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQ3pv4OJ7hp7aZvMe2PzqyiXfG8hQpH86QZW8e4UeLlYWuAsJzynMDcwb6fQkHEJ3t0QKBHQ6wXdlZzaHxh98Iqxos9iagqRVUBXyRA_hZlRIgbmGxqguy2EdIZNezHjvVndwLcJblz0A3rjWmwPsVtN09bIwN9KKIOM4gdM0wRoL4fAQ=s1024)
+![image](https://drive.google.com/file/d/18IJ_JxzUUSY8x5GIuSBSM-1Vl8kyqklC/view?usp=sharing)
 
 ### This project implements a basic RESTful API chatbot service in Python using FastAPI, powered by the TinyLlama language model. It allows users to send messages via HTTP POST requests and receive AI-generated responses.
 
