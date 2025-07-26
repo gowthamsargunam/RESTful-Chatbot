@@ -59,4 +59,4 @@ Simple Client: Includes a basic Python script to demonstrate interacting with th
 
 ## This project uses the TinyLlama 1.1B Chat model:
 https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
-For best performance, run on a machine with a GPU.
+Use this Model for best performance, run on a machine with a GPU.
