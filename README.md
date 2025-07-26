@@ -10,16 +10,16 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 pip install -r requirements.txt
 ```
 
-### Setup
+### Setup ⚙ 
 Create a .env file in the root directory:
 
 ```
-HF_TOKEN=your_huggingface_token_here
+Hf_Token = " your_huggingface_token_here "
 ```
 
 Get your Hugging Face token from: https://huggingface.co/settings/tokens
 
-### Running the Server
+### Running the Server 
 Start the FastAPI chatbot server with:
 
 ```
