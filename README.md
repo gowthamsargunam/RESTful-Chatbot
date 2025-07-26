@@ -5,12 +5,14 @@ A simple RESTful chatbot service in Python using Llama Model
 
 ### STEP 1
 
-## Installation Needed Libraries
+### Installation Needed Libraries
  
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 pip install -r requirements.txt
 ```
+
+### STEP 2 
 
 ### Setup ⚙ 
 Create a .env file in the root directory:
@@ -19,10 +21,13 @@ Create a .env file in the root directory:
 Hf_Token = " your_huggingface_token_here "
 ```
 
+Login or Logup Hugging Face through : https://huggingface.co/
+
 Get your Hugging Face token from: https://huggingface.co/settings/tokens
 
-### Running the Server 
-Start the FastAPI chatbot server with:
+### Running the Server
+Run the file bot.py by
+Starting the FastAPI chatbot server with:
 
 ```
 uvicorn bot:app --reload
