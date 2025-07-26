@@ -8,7 +8,7 @@ A simple RESTful chatbot service in Python using Llama Model
 ### Installation Needed Libraries
  
 ```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126 from: https://pytorch.org/
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 pip install -r requirements.txt
 ```
 
