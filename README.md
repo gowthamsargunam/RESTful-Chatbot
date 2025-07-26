@@ -1,5 +1,5 @@
 # RESTful - Chatbot
-A simple RESTful chatbot service in Python using Llama Model
+A simple **RESTful chatbot **service in Python using Llama Model
 
 ### This project implements a basic RESTful API chatbot service in Python using FastAPI, powered by the TinyLlama language model. It allows users to send messages via HTTP POST requests and receive AI-generated responses.
 
@@ -28,7 +28,7 @@ Create a token Copy that and Get your Hugging Face token from: https://huggingfa
 ### STEP 3
 
 ### Running the Server
-Run the file bot.py by
+Run the file **bot.py** by
 Starting the FastAPI chatbot server with:
 
 ```
@@ -53,19 +53,19 @@ python data.py
 
 ### Features:
 
-RESTful API: Exposes a /chat endpoint for conversational interaction.
+**RESTful API:** Exposes a /chat endpoint for conversational interaction.
 
-Llama Integration: Uses the TinyLlama-1.1B-Chat-v1.0 model for response generation.
+**Llama Integration:** Uses the **TinyLlama-1.1B-Chat-v1.0** model for response generation.
 
-FastAPI Backend: Built with FastAPI for high performance and easy API development.
+**FastAPI Backend:** Built with FastAPI for high performance and easy API development.
 
-Hugging Face Integration: Loads models from Hugging Face Hub using a token.
+**Hugging Face Integration:** Loads models from Hugging Face Hub using a token.
 
-GPU Acceleration: Automatically leverages CUDA (GPU) if available for faster inference, otherwise falls back to CPU.
+**GPU Acceleration:** Automatically leverages CUDA (GPU) if available for faster inference, otherwise falls back to CPU.
 
-Conversation Logging: Records all user inputs and bot responses to a log file.
+**Conversation Logging:** Records all user inputs and bot responses to a log file.
 
-Simple Client: Includes a basic Python script to demonstrate interacting with the service.
+**Simple Client:** Includes a basic Python script to demonstrate interacting with the service.
 
 
 ### Note:
