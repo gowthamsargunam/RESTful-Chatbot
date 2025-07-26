@@ -21,7 +21,7 @@ Create a .env file in the root directory:
 Hf_Token = " your_huggingface_token_here "
 ```
 
-Login or Logup Hugging Face through : https://huggingface.co/
+Login or Signup Hugging Face through : https://huggingface.co/
 
 Get your Hugging Face token from: https://huggingface.co/settings/tokens
 
