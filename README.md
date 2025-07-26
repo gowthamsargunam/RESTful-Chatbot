@@ -23,7 +23,7 @@ Hf_Token = " your_huggingface_token_here "
 
 Login or Signup Hugging Face through : https://huggingface.co/
 
-Get your Hugging Face token from: https://huggingface.co/settings/tokens
+Create and Copy and Get your Hugging Face token from: https://huggingface.co/settings/tokens
 
 ### Running the Server
 Run the file bot.py by
