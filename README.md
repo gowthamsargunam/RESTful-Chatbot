@@ -25,6 +25,8 @@ Login or Signup Hugging Face through : https://huggingface.co/
 
 Create a token Copy that and Get your Hugging Face token from: https://huggingface.co/settings/tokens
 
+### STEP 3
+
 ### Running the Server
 Run the file bot.py by
 Starting the FastAPI chatbot server with:
@@ -38,6 +40,8 @@ Once running, the API will be available at:
 ```
 http://127.0.0.1:8000
 ```
+
+### STEP 4
 
 ### Testing the Chatbot
 You can test the chatbot by running the file data.py
