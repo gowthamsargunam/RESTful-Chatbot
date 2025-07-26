@@ -64,7 +64,7 @@ Conversation Logging: Records all user inputs and bot responses to a log file.
 Simple Client: Includes a basic Python script to demonstrate interacting with the service.
 
 
-
+### Note:
 
 ## This project uses the TinyLlama 1.1B Chat model:
 https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
