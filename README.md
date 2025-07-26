@@ -55,6 +55,7 @@ python data.py
 ### RESULT:
 
 ![Screenshot1.png](REST_BOT/images/Screenshot1.png)
+
 ![Screenshot2.png](REST_BOT/images/Screenshot2.png)
 
 ### Features:
