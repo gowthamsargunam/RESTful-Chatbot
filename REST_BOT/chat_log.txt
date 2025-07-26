@@ -1,0 +1,20 @@
+
+[2025-07-26 14:18:29]
+User: What is Python?
+Bot : Python is an object-oriented programming language that is known for its simplicity, readability, and ease of use. It is used for various applications such as web development, data science, machine learning, and robotics. Python is developed by Python Software Foundation and is open-source. Its syntax is easy to learn and its syntax is similar to other programming languages like C++, Java, and JavaScript. It is widely used and is known for its community support, which provides a vast library of libraries
+
+[2025-07-26 14:45:54]
+User: What is Python?
+Bot : Python is a high-level, interpreted, object-oriented programming language. It is commonly used for web development, data analysis, and machine learning. Python has a simple syntax, making it easy to learn and use. Python is often used in web development because it is fast, efficient, and supports dynamic typing. Python has a large community of developers who contribute to open-source projects such as NumPy, SciPy, and Pandas. Python has also gained popularity in the data science
+
+[2025-07-26 14:49:10]
+User: what is Matlab?
+Bot : Sure! Matlab is a programming language and software suite developed by MathWorks. It is used for scientific computing, data analysis, and modeling. Matlab is used in a variety of fields, including engineering, physics, chemistry, biology, and medicine. Matlab is widely used in the fields of finance, economics, and computer science. In short, Matlab is a powerful tool for scientific computing and modeling, used by professionals in fields such as engineering,
+
+
+[2025-07-26 16:46:29]
+User: what is Postgre SQL?
+Bot : Postgre SQL is a relational database management system (RDBMS) developed by PostgreSQL Global Development Group (PGDG) and is one of the most popular and widely used RDBMS in the world. It is open-source and offers a wide range of features, such as data manipulation, data modeling, and data analysis, among others. Postgre SQL is known for its robust and reliable performance, advanced features, and ease of use. It has a large community
+[2025-07-26 18:22:00]
+User: what is Postgre SQL?
+Bot : Postgre SQL (PostgreSQL) is a powerful and robust open-source relational database management system (RDBMS) that has gained a lot of popularity in the last decade. It is developed by the PostgreSQL Global Development Group (PGDG) and is known for its features such as ease of use, scalability, security, and high performance. It is known for its flexibility in terms of data modeling and its ability to handle a wide range of data
