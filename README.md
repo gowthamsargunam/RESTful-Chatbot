@@ -63,7 +63,7 @@ Every time you ask a question and receive a response from the bot, the conversat
 This log includes:
 
 **User message**
-**Bot reply**
+**Bot reply and**
 **Timestamp**
 
 Useful for debugging, reviewing conversation history
