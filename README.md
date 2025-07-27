@@ -25,7 +25,7 @@ Hf_Token = " your_huggingface_token_here "
 
 Login or Signup Hugging Face through : https://huggingface.co/
 
-Create a token and Copy it you can get your Hugging Face token from: https://huggingface.co/settings/tokens
+Create a token and copy it you can get your Hugging Face token from: https://huggingface.co/settings/tokens
 
 ### STEP 3
 
