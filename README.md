@@ -54,9 +54,9 @@ python data.py
 
 ### RESULT:
 
-![Screenshot1.png](REST_BOT/images/Screenshot1.png)
+![chatbot_output1.png](REST_BOT/images/chatbot_output1.png)
 
-![Screenshot2.png](REST_BOT/images/Screenshot2.png)
+![chatbot_output2.png](REST_BOT/images/chatbot_output2.png)
 
 ### CHAT_LOG
 Every time you ask a question and receive a response from the bot, the conversation is automatically saved in a file named `chat_log.txt`.
