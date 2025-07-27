@@ -30,7 +30,7 @@ Create a token and copy it you can get your Hugging Face token from: https://hug
 ### STEP 3
 
 ### Running the Server
-Run the file **bot.py** by
+Run the file `bot.py` by
 Starting the FastAPI chatbot server with:
 
 ```
