@@ -58,6 +58,17 @@ python data.py
 
 ![Screenshot2.png](REST_BOT/images/Screenshot2.png)
 
+### CHAT_LOG
+Every time you ask a question and receive a response from the bot, the conversation is automatically saved in a file named `chat_log.txt`.
+This log includes:
+
+**User message**
+**Bot reply**
+**Timestamp**
+
+Useful for debugging, reviewing conversation history
+
+
 ### Features:
 
 **RESTful API:** Exposes a /chat endpoint for conversational interaction.
