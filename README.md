@@ -62,7 +62,7 @@ python data.py
 Every time you ask a question and receive a response from the bot, the conversation is automatically saved in a file named `chat_log.txt`.
 This log includes:
 
-**User message**
+**User message,**
 **Bot reply and**
 **Timestamp**
 
