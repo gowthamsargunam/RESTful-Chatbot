@@ -90,6 +90,6 @@ it is Useful for debugging and reviewing the conversation history
 
 ### Note:
 
-## This project uses the TinyLlama 1.1B Chat model:
+## The chatbot in this project is powered by TinyLlama 1.1B Chat model:
 https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 Use this Model for best performance, run on a machine with a GPU.
