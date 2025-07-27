@@ -66,7 +66,9 @@ This log includes:
 **Bot reply and**
 **Timestamp**
 
-Useful for debugging, reviewing conversation history
+![chatlo_output](REST_BOT/images/chatlog_output.png)
+
+Useful for debugging and reviewing the conversation history
 
 
 ### Features:
