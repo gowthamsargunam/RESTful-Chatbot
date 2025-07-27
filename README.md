@@ -54,6 +54,8 @@ python data.py
 
 ### RESULT:
 
+This Chatbot answers your questions by using the TinyLlama model, It converts the input into tokens, guesses what you want to know, and then sends back a reply. Plus, it keeps a record of every question and answer in a file `chat_log.txt`.
+
 ![chatbot_output1.png](REST_BOT/images/chatbot_output1.png)
 
 ![chatbot_output2.png](REST_BOT/images/chatbot_output2.png)
